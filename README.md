@@ -19,7 +19,6 @@ This is the public repository for Application-Bot. Here you will find all the as
 	<h2 style="color:#F25251;">Need any more help?</h2>
     	<p>If you require and help or would like to ask any questions (before or after you add Application Bot), then please message Sean Hatch (bot creator) on the Application Bot Help Server.</p>
 	<a href="https://discord.gg/D554nQx">Join our Application Bot Help Server</a>
-
 	<h1>Invite Applciation Bot to your server using the widget below:
 	<a href="https://discordbots.org/bot/418842777720193037" >
   		<img src="https://discordbots.org/api/widget/418842777720193037.svg" alt="" />
